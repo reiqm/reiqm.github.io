@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stella Kim / Portfolio"
+title                    : "Stella Kim's Portfolio"
 title_separator          : "-"
 name                     : &name "Stella Kim"
 description              : &description "Aspiring UX Designer @ University of Toronto, Faculty of Information"
